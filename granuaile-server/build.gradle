@@ -18,4 +18,5 @@ dependencies {
     compile group: 'org.eclipse.jetty', name: 'jetty-server', version: '9.4.7.v20170914'
     compile group: 'org.eclipse.jetty', name: 'jetty-servlet', version: '9.4.7.v20170914'
     compile group: 'commons-cli', name: 'commons-cli', version: '1.4'
+    compile group: 'org.xerial', name: 'sqlite-jdbc', version: '3.21.0'
 }
